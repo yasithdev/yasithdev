@@ -34,7 +34,7 @@ Open-source cyberinfrastructure for managing and executing **federated scientifi
 In my spare time, I make music. You can find them here:  
 - 🎥 [YouTube](https://www.youtube.com/@yasithdev)  
 - 🎵 [Spotify](https://open.spotify.com/artist/13QNJSaGuciwzHPaIMjqOj)  
-- 🍎 [Apple Music](https://music.apple.com/artist/yasith-jayawardana/1673648020)
+- 🍎 [Apple Music](https://music.apple.com/us/artist/yasith-jayawardana/1675938591)
 
 ---
 
