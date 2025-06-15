@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yasith Jayawardana
 
 **Research Scientist @ Georgia Tech • Co‑founder @ Marketrix.ai**  
-I build intelligent systems—from agentic SaaS tools to scalable research infrastructure—that solve real-world problems.
+I build intelligent systems—from agentic SaaS products to scalable research infrastructure—that solve real-world problems.
 
 - 🔬 Specializing in AI, distributed systems, and cyberinfrastructure  
 - 🌐 Website: [yasith.dev](https://yasith.dev)  
@@ -10,12 +10,12 @@ I build intelligent systems—from agentic SaaS tools to scalable research infra
 ---
 
 ## 🚀 Marketrix.ai — Let your software support itself  
-Agentic AI assistant for SaaS/web apps that **simulates user actions**, understands UI context, and delivers help in three modes:  
+Marketrix is a SaaS platform to add an **embedded AI assistant** to any web-based software. It hooks directly into the UI, simulates user behavior, and delivers support in three intelligent modes:
 - **Tell** – In-app AI chat  
 - **Show** – Contextual UI walkthrough overlays  
 - **Do** – Automated task execution  
 
-→ Delivers **zero-ticket support** and **instant onboarding** for fast-paced SaaS teams.
+→ Enables **zero-ticket support** and **instant onboarding** for any web app.
 
 ---
 
@@ -31,7 +31,7 @@ Open-source cyberinfrastructure for managing and executing **federated scientifi
 
 ## 🎧 Music
 
-In my spare time, I make music. You can find them here.
+In my spare time, I make music. You can find them here:  
 - 🎥 [YouTube](https://www.youtube.com/@yasithjayawardana)  
 - 🎵 [Spotify](https://open.spotify.com/artist/4WjYx7dbC2m1bEOEbcgkV6)  
 - 🍎 [Apple Music](https://music.apple.com/artist/yasith-jayawardana/1673648020)
@@ -42,6 +42,8 @@ In my spare time, I make music. You can find them here.
 
 - **[Cybershuttle](https://github.com/cyber-shuttle)** – Unified platform for compute across HPC, cloud, and local  
 - **[Apache Airavata](https://github.com/apache/airavata)** – Orchestrating scalable scientific workflows  
-- **[Marketrix (private/commercial)](https://marketrix.ai)** – AI copilots for SaaS apps
+- **[Marketrix.ai](https://marketrix.ai)** – AI assistant SaaS for web-based software
 
 ---
+
+*Thanks for visiting—check out the pinned repos below to dive into the work in motion.*
