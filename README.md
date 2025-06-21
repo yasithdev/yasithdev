@@ -10,7 +10,7 @@ I build intelligent systems—from agentic SaaS products to scalable research in
 ---
 
 ## 🚀 Marketrix.ai — Let your software support itself  
-Marketrix is a SaaS platform to add an **embedded AI assistant** to any web-based software. It hooks directly into the UI, simulates user behavior, and delivers support in three intelligent modes:
+Marketrix is a SaaS platform bringing **AI assistants** into any web-based application. It learns the app UI by simulating user behavior, embeds into the app as a widget, and delivers on-screen support to its users in three intelligent modes:
 - **Tell** – In-app AI chat  
 - **Show** – Contextual UI walkthrough overlays  
 - **Do** – Automated task execution  
