@@ -10,12 +10,12 @@ I build intelligent systems—from agentic SaaS products to scalable research in
 ---
 
 ## 🚀 Marketrix.ai — Let your software support itself  
-Marketrix is a SaaS platform bringing **AI assistants** into any web-based application. It learns the app UI by simulating user behavior, embeds into the app as a widget, and delivers on-screen support to its users in three intelligent modes:
-- **Tell** – In-app AI chat  
-- **Show** – Contextual UI walkthrough overlays  
-- **Do** – Automated task execution  
+Marketrix is a SaaS platform bringing **AI assistants** into any web application. It learns the app UI by simulating user behavior, embeds into the app as a widget, and delivers contextual in-app support in three modes:
+- **Tell** – regular text-based chat  
+- **Show** – step-by-step guidance with UI overlays
+- **Do** – automated task execution
 
-→ Enables **zero-ticket support** and **instant onboarding** for any web app.
+Let's bring **zero-ticket support** and **instant onboarding** to any web app!
 
 ---
 
@@ -25,7 +25,7 @@ Marketrix is a SaaS platform bringing **AI assistants** into any web-based appli
 Platform connecting your **data and code** to HPC clusters, cloud, and local environments—letting you **run experiments anywhere** seamlessly.
 
 ### ☁️ [Apache Airavata](https://github.com/apache/airavata)  
-Open-source cyberinfrastructure for managing and executing **federated scientific workflows** across HPC and cloud. I contribute to its core architecture, APIs, and system design to support scalable research computing.
+Open-source framework to define and run **scientific experiments** across HPC and cloud infrastructure. I contribute to its core architecture, APIs, and system design to support scalable research computing.
 
 ---
 
