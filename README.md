@@ -1,11 +1,23 @@
 # 👋 Hi, I'm Yasith Jayawardana
+**Research Scientist @ Georgia Tech • Co‑founder @ Marketrix.ai**
 
-**Research Scientist @ Georgia Tech • Co‑founder @ Marketrix.ai**  
+<table><tbody><tr>
+<td width="60%">
 I build intelligent systems—from agentic SaaS products to scalable research infrastructure—that solve real-world problems.
 
 - 🔬 Specializing in AI, distributed systems, and cyberinfrastructure  
 - 🌐 Website: [yasith.dev](https://yasith.dev)  
 - 💼 LinkedIn: [linkedin.com/in/yasithdev](https://www.linkedin.com/in/yasithdev/)
+</td>
+
+<td width="40%" style="border: 0">
+<img src="https://github-readme-stats.vercel.app/api?username=yasithdev&hide_rank=true&hide_border=true"/>
+</td>
+
+</tr></tbody></table>
+
+
+
 
 ---
 
