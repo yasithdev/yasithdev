@@ -3,9 +3,9 @@
 
 <table><tbody><tr>
 <td width="60%">
-I build intelligent systems—from agentic SaaS products to scalable research infrastructure—that solve real-world problems.
+I build intelligent systems — from AI SaaS to research platforms - that solve real-world problems.
 
-- 🔬 Specializing in AI, distributed systems, and cyberinfrastructure  
+- 🔬 Focus: Agentic AI, Computer Vision, Distributed Systems
 - 🌐 Website: [yasith.dev](https://yasith.dev)  
 - 💼 LinkedIn: [linkedin.com/in/yasithdev](https://www.linkedin.com/in/yasithdev/)
 </td>
