@@ -2,15 +2,15 @@
 **Research Scientist @ Georgia Tech • Co‑founder @ Marketrix.ai**
 
 <table><tbody><tr>
-<td width="60%">
-I build intelligent systems — from AI SaaS to research platforms - that solve real-world problems.
+<td width="65%">
+<b>I build intelligent systems - AI SaaS, Research Platforms - to solve real problems</b>
 
 - 🔬 Focus: Agentic AI, Computer Vision, Distributed Systems
 - 🌐 Website: [yasith.dev](https://yasith.dev)  
 - 💼 LinkedIn: [linkedin.com/in/yasithdev](https://www.linkedin.com/in/yasithdev/)
 </td>
 
-<td width="40%" style="border: 0">
+<td width="35%" style="border: 0">
 <img src="https://github-readme-stats.vercel.app/api?username=yasithdev&hide_rank=true&hide_border=true"/>
 </td>
 
