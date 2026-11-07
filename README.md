@@ -6,12 +6,13 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/13QNJSaGuciwzHPaIMjqOj)
 [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=flat&logo=applemusic&logoColor=white)](https://music.apple.com/artist/1675938591)
 
-I model human behavior and simulate it with agents.
+I make AI agents think and act like humans.
 
-I hold a PhD (CS) in human sensing and neurodivergence, and a BS (CSE) in distributed systems.
-I've developed algorithms to estimate attention and cognitive load from eye movements, detect autistic traits from EEG, compress waveforms into ODEs, and infer distribution shift.
-I've also built behavioral simulators, biosignal processing libraries, and research computing platforms.
-When time permits, I make music.
+Human sensing researcher (PhD, CS) and systems engineer (BS, CSE).
+I turn what people say and do into AI buyer personas.
+As a researcher, I've developed algorithms to estimate attention and mental effort from eye movements, identify EEG markers of autistic traits, compress signals into ODEs, and detect distribution shift.
+As an engineer, I've built biosignal libraries and research computing platforms.
+I make music in my spare time.
 
 <img src="https://ghstats.dev/api/card?username=yasithdev&show_ring=false&hide=streak%2Ccontributions%2Cgrade%2Cactive_day%2Cavg%2Ctrend%2Cweek%2Chours%2Cissues&order=commits%2Cprs%2Crepos%2Cstars%2Cfollowers" alt="GitHub Stats Card" />
 
