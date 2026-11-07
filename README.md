@@ -16,16 +16,18 @@ I make music in my spare time.
 
 <img src="https://ghstats.dev/api/card?username=yasithdev&show_ring=false&hide=streak%2Ccontributions%2Cgrade%2Cactive_day%2Cavg%2Ctrend%2Cweek%2Chours%2Cissues&order=commits%2Cprs%2Crepos%2Cstars%2Cfollowers" alt="GitHub Stats Card" />
 
-## 🚀 Currently
+## 🚀 Most Active Projects
 
-- **[Marketrix](https://marketrix.ai)** (Co-founder) – Ask what-if questions from 259M U.S. personas built from real conversations and calibrated to census data.
-- **[Cybershuttle](https://github.com/cyber-shuttle)** ([Georgia Tech ARTISAN](https://gt-artisan.github.io)) – Connect your data and code to HPC, cloud, and local machines to run experiments anywhere.
-- **[Apache Airavata](https://github.com/apache/airavata)** ([Georgia Tech ARTISAN](https://gt-artisan.github.io)) – Run scientific experiments across HPC and cloud from one framework.
-
-## 🔬 Research & Open Source
-
+- **[Marketrix](https://marketrix.ai)** – AI buyer personas. 259M U.S. personas built from real conversations and calibrated to census data.
 - **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Launch VS Code sessions on Slurm compute nodes from your local editor.
 - **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Turn a Slurm job into Jupyter, VS Code, and terminal servers you can reach from your laptop.
+- **[Apache Airavata](https://github.com/apache/airavata)** – Run scientific experiments across HPC and cloud from one framework.
+- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Provision HPC accounts from federated identities with CILogon, COmanage, and OAuth2.
+- **[cs-plane](https://github.com/cyber-shuttle/cs-plane)** – Cybershuttle's control plane. Signs users in, tracks sessions, and launches Linkspan jobs through Slurm.
+
+## 🔬 More Open Source
+
+- **[Cybershuttle](https://github.com/cyber-shuttle)** – Connect your data and code to HPC, cloud, and local machines to run experiments anywhere.
 - **[slurmrest](https://github.com/yasithdev/slurmrest)** – Dockerized Slurm cluster with REST, plus a Go CLI to manage accounts and limits.
 - **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream biosignals from devices and datasets, and process them in real time.
 
