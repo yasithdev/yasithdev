@@ -6,7 +6,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/13QNJSaGuciwzHPaIMjqOj)
 [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=flat&logo=applemusic&logoColor=white)](https://music.apple.com/artist/1675938591)
 
-I make AI agents think and act like humans.
+I make AI agents think and act like humans
 
 Human sensing researcher (PhD, CS) and systems engineer (BS, CSE).
 I turn what people say and do into AI buyer personas.
@@ -24,6 +24,9 @@ I make music in my spare time.
 
 ## 🔬 Research & Open Source
 
+- **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Launch VS Code sessions on Slurm compute nodes from your local editor.
+- **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Turn a Slurm job into Jupyter, VS Code, and terminal servers you can reach from your laptop.
+- **[slurmrest](https://github.com/yasithdev/slurmrest)** – Dockerized Slurm cluster with REST, plus a Go CLI to manage accounts and limits.
 - **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream biosignals from devices and datasets, and process them in real time.
 
 ## 📄 Selected Publications
