@@ -16,15 +16,42 @@ I make music in my spare time.
 
 <img src="https://ghstats.dev/api/card?username=yasithdev&show_ring=false&hide=streak%2Ccontributions%2Cgrade%2Cactive_day%2Cavg%2Ctrend%2Cweek%2Chours%2Cissues&order=commits%2Cprs%2Crepos%2Cstars%2Cfollowers" alt="GitHub Stats Card" />
 
-## 💼 Ventures
+## 🚀 Currently
 
-- **[Marketrix](https://marketrix.ai)** – Ask what-if questions from 259M U.S. personas built from real conversations and calibrated to census data.
+- **[Marketrix](https://marketrix.ai)** (Co-founder) – Ask what-if questions from 259M U.S. personas built from real conversations and calibrated to census data.
+- **[Cybershuttle](https://github.com/cyber-shuttle)** ([Georgia Tech ARTISAN](https://gt-artisan.github.io)) – Connect your data and code to HPC, cloud, and local machines to run experiments anywhere.
+- **[Apache Airavata](https://github.com/apache/airavata)** (Contributor) – Run scientific experiments across HPC and cloud from one framework.
 
 ## 🔬 Research & Open Source
 
-- **[Cybershuttle](https://github.com/cyber-shuttle)** – Connect your data and code to HPC, cloud, and local machines to run experiments anywhere.
 - **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream biosignals from devices and datasets, and process them in real time.
-- **[Apache Airavata](https://github.com/apache/airavata)** – Run scientific experiments across HPC and cloud from one framework.
+
+## 📄 Selected Publications
+
+- [Measuring Mental Effort in Real Time Using Pupillometry](https://doi.org/10.3390/jemr18060070) – *J. Eye Movement Research*, 2025
+- [A Real-Time Approach to Capture Ambient and Focal Attention in Visual Search](https://doi.org/10.1145/3715669.3723111) – *ETRA*, 2025
+- [Thinking in Groups: Permutation Tests Reveal Near-Out-of-Distribution](https://arxiv.org/abs/2403.14058) – *arXiv*, 2024
+- [Enhancing Research Productivity: Seamless Integration of Personal Devices and HPC Resources with the Cybershuttle Notebook Gateway](https://doi.org/10.1145/3626203.3670623) – *PEARC*, 2024
+- [Eye Movement and Pupil Measures: A Review](https://doi.org/10.3389/fcomp.2021.733531) – *Frontiers in Computer Science*, 2022
+
+More on [Google Scholar](https://scholar.google.com/citations?user=tY4R8rYAAAAJ) and [yasith.dev](https://yasith.dev/publications.html).
+
+## 🧰 Skills & Stack
+
+**Research:** Agentic AI · RAG · Deep Learning · Computer Aided Diagnosis · Human Sensing · Eye Tracking · EEG
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+## 🎹 Music
+
+Amateur music producer — started as a cover artist, now making original music. Listen on [Spotify](https://open.spotify.com/artist/13QNJSaGuciwzHPaIMjqOj), [Apple Music](https://music.apple.com/us/artist/yasith-jayawardana/1675938591), or [YouTube](https://www.youtube.com/@yasithdev).
 
 ---
 
