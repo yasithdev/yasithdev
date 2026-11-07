@@ -18,12 +18,12 @@ I make music in my spare time.
 
 ## 🚀 Recent Projects
 
-- **[Marketrix](https://marketrix.ai)** – AI buyer personas. 259M U.S. personas built from real conversations and calibrated to census data.
 - **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Launch VS Code sessions on Slurm compute nodes from your local editor.
+- **[CS Jupyter](https://github.com/cyber-shuttle/cs-jupyter)** – Run JupyterLab on a Slurm compute node, from your browser.
 - **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Turn a Slurm job into Jupyter, VS Code, and terminal servers you can reach from your laptop.
-- **[Apache Airavata](https://github.com/apache/airavata)** – Run scientific experiments across HPC and cloud from one framework.
+- **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments across HPC and cloud. Also the control plane for Cybershuttle sessions.
 - **[Airavata Custos](https://github.com/apache/airavata-custos)** – Provision HPC accounts from federated identities with CILogon, COmanage, and OAuth2.
-- **[cs-plane](https://github.com/cyber-shuttle/cs-plane)** – Cybershuttle's control plane. Signs users in, tracks sessions, and launches Linkspan jobs through Slurm.
+- **[PersonaOS](https://marketrix.ai)** – Generate AI buyer personas and chat with them. Part of Marketrix.
 
 ## 🔬 More Open Source
 
