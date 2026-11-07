@@ -23,7 +23,7 @@ I make music in my spare time.
 - **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Turn a Slurm job into Jupyter, VS Code, and terminal servers you can reach from your laptop.
 - **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments across HPC and cloud. Also the control plane for Cybershuttle sessions.
 - **[Airavata Custos](https://github.com/apache/airavata-custos)** – Provision HPC accounts from federated identities with CILogon, COmanage, and OAuth2.
-- **[PersonaOS](https://marketrix.ai)** – Generate AI buyer personas and chat with them. Part of Marketrix.
+- **[PersonaOS](https://marketrix.ai)** – Generate AI buyer personas and chat with them.
 
 ## 🔬 More Open Source
 
