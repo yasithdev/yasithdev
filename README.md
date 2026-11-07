@@ -16,7 +16,7 @@ I make music in my spare time.
 
 <img src="https://ghstats.dev/api/card?username=yasithdev&show_ring=false&hide=streak%2Ccontributions%2Cgrade%2Cactive_day%2Cavg%2Ctrend%2Cweek%2Chours%2Cissues&order=commits%2Cprs%2Crepos%2Cstars%2Cfollowers" alt="GitHub Stats Card" />
 
-## 🚀 Most Active Projects
+## 🚀 Recent Projects
 
 - **[Marketrix](https://marketrix.ai)** – AI buyer personas. 259M U.S. personas built from real conversations and calibrated to census data.
 - **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Launch VS Code sessions on Slurm compute nodes from your local editor.
@@ -43,16 +43,24 @@ More on [Google Scholar](https://scholar.google.com/citations?user=tY4R8rYAAAAJ)
 
 ## 🧰 Skills & Stack
 
-**Research:** Agentic AI · RAG · Deep Learning · Computer Aided Diagnosis · Human Sensing · Eye Tracking · EEG
+- **AI & Agents:** LLM Agents · MCP · LiteLLM · RAG · Behavior Simulation
+- **Human Sensing & ML:** Eye Tracking · Pupillometry · EEG · Deep Learning · Out-of-Distribution Detection
+- **Research Computing:** HPC / Slurm · Science Gateways · Jupyter · VS Code Extensions · CILogon · Keycloak
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ## 🎹 Music
 
