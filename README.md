@@ -20,7 +20,7 @@ I make music in my spare time.
 
 - **[Marketrix](https://marketrix.ai)** (Co-founder) – Ask what-if questions from 259M U.S. personas built from real conversations and calibrated to census data.
 - **[Cybershuttle](https://github.com/cyber-shuttle)** ([Georgia Tech ARTISAN](https://gt-artisan.github.io)) – Connect your data and code to HPC, cloud, and local machines to run experiments anywhere.
-- **[Apache Airavata](https://github.com/apache/airavata)** (Contributor) – Run scientific experiments across HPC and cloud from one framework.
+- **[Apache Airavata](https://github.com/apache/airavata)** ([Georgia Tech ARTISAN](https://gt-artisan.github.io)) – Run scientific experiments across HPC and cloud from one framework.
 
 ## 🔬 Research & Open Source
 
