@@ -20,10 +20,10 @@ I make music in my spare time.
 
 - **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Launch VS Code sessions on Slurm compute nodes from your local editor.
 - **[CS Jupyter](https://github.com/cyber-shuttle/cs-jupyter)** – Run JupyterLab on a Slurm compute node, from your browser.
-- **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Turn a Slurm job into Jupyter, VS Code, and terminal servers you can reach from your laptop.
-- **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments across HPC and cloud. Also the control plane for Cybershuttle sessions.
-- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Provision HPC accounts from federated identities with CILogon, COmanage, and OAuth2.
-- **[Persona OS](https://marketrix.ai)** – Generate AI buyer personas and chat with them.
+- **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Reach Jupyter, VS Code, and terminals in a Slurm job from your laptop.
+- **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments across HPC and cloud. Control plane for Cybershuttle.
+- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Provision HPC accounts from federated sign-in via CILogon, COmanage, and OAuth2.
+- **[Persona OS](https://marketrix.ai)** – Chat with AI Buyer Personas built from real conversations, and test what-if questions.
 
 ## 🔬 More Open Source
 
