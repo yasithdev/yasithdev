@@ -28,7 +28,7 @@ I make music in my spare time.
 ## 🔬 More Open Source
 
 - **[Cybershuttle](https://github.com/cyber-shuttle)** – Connect your data and code to HPC, cloud, and local machines to run experiments anywhere.
-- **[slurmrest](https://github.com/yasithdev/slurmrest)** – Dockerized Slurm cluster with REST, plus a Go CLI to manage accounts and limits.
+- **[Slurm REST](https://github.com/yasithdev/slurmrest)** – Dockerized Slurm cluster with REST, plus a Go CLI to manage accounts and limits.
 - **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream biosignals from devices and datasets, and process them in real time.
 
 ## 📄 Selected Publications
