@@ -10,8 +10,8 @@ I make AI agents think and act like humans
 
 Human sensing researcher (PhD, CS) and systems engineer (BS, CSE).
 I turn what people say and do into AI buyer personas.
-As a researcher, I've developed algorithms to estimate attention and mental effort from eye movements, identify EEG markers of autistic traits, compress signals into ODEs, and detect distribution shift.
-As an engineer, I've built biosignal libraries and research computing platforms.
+Research: attention and mental effort from eye movements, EEG markers of autistic traits, compressing signals into ODEs, and distribution shift.
+Engineering: biosignal libraries and research computing platforms.
 I make music in my spare time.
 
 <img src="https://ghstats.dev/api/card?username=yasithdev&show_ring=false&hide=streak%2Ccontributions%2Cgrade%2Cactive_day%2Cavg%2Ctrend%2Cweek%2Chours%2Cissues&order=commits%2Cprs%2Crepos%2Cstars%2Cfollowers" alt="GitHub Stats Card" />
@@ -64,8 +64,5 @@ More on [Google Scholar](https://scholar.google.com/citations?user=tY4R8rYAAAAJ)
 
 ## 🎹 Music
 
-Amateur music producer — started as a cover artist, now making original music. Listen on [Spotify](https://open.spotify.com/artist/13QNJSaGuciwzHPaIMjqOj), [Apple Music](https://music.apple.com/us/artist/yasith-jayawardana/1675938591), or [YouTube](https://www.youtube.com/@yasithdev).
+Amateur music producer, now making original music.
 
----
-
-*Thanks for visiting! Check out my pinned repos below.*
