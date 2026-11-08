@@ -34,13 +34,16 @@ I make music in my spare time.
 
 ## 📄 Selected Publications
 
+780+ citations · h-index 11 on [Google Scholar](https://scholar.google.com/citations?user=tY4R8rYAAAAJ).
+
+- [Federated HPC Account Provisioning Using CILogon, COmanage, and PAM-Based OAuth2 Device Flow](https://doi.org/10.1145/3785462.3815896) – *PEARC*, 2026
 - [Measuring Mental Effort in Real Time Using Pupillometry](https://doi.org/10.3390/jemr18060070) – *Journal of Eye Movement Research*, 2025
 - [A Real-Time Approach to Capture Ambient and Focal Attention in Visual Search](https://doi.org/10.1145/3715669.3723111) – *ETRA*, 2025
 - [Thinking in Groups: Permutation Tests Reveal Near-Out-of-Distribution](https://arxiv.org/abs/2403.14058) – *arXiv*, 2024
 - [Enhancing Research Productivity: Seamless Integration of Personal Devices and HPC Resources with the Cybershuttle Notebook Gateway](https://doi.org/10.1145/3626203.3670623) – *PEARC*, 2024
-- [Eye Movement and Pupil Measures: A Review](https://doi.org/10.3389/fcomp.2021.733531) – *Frontiers in Computer Science*, 2022
+- [Eye Movement and Pupil Measures: A Review](https://doi.org/10.3389/fcomp.2021.733531) – *Frontiers in Computer Science*, 2022 · 🏆 Editor’s Pick
 
-More on [Google Scholar](https://scholar.google.com/citations?user=tY4R8rYAAAAJ) and [yasith.dev](https://yasith.dev/publications.html).
+Full list on [yasith.dev](https://yasith.dev/publications.html).
 
 ## 🧰 Skills & Stack
 
