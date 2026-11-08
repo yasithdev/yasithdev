@@ -22,7 +22,7 @@ I make music in my spare time.
 
 - **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Launch VS Code in Slurm jobs from your local editor
 - **[CS Jupyter](https://github.com/cyber-shuttle/cs-jupyter)** – Run JupyterLab in Slurm jobs from your browser
-- **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Reach Jupyter, VS Code, and terminals in a Slurm job from your laptop
+- **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Control plane for Slurm jobs: reach Jupyter, VS Code, and terminals from your laptop
 - **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments across HPC and cloud. Control plane for Cybershuttle
 - **[Airavata Custos](https://github.com/apache/airavata-custos)** – Automate HPC account management, from approval to Slurm access
 - **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream, replay, and simulate biosignals in real time from Python
