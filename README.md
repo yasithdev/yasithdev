@@ -20,17 +20,17 @@ I make music in my spare time.
 
 ## 🛠️ Open Source
 
-- **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Launch VS Code in Slurm jobs from your local editor.
-- **[CS Jupyter](https://github.com/cyber-shuttle/cs-jupyter)** – Run JupyterLab in Slurm jobs from your browser.
-- **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Reach Jupyter, VS Code, and terminals in a Slurm job from your laptop.
-- **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments across HPC and cloud. Control plane for Cybershuttle.
-- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Automate HPC account management, from approval to Slurm access.
-- **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream, replay, and simulate biosignals in real time from Python.
+- **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Launch VS Code in Slurm jobs from your local editor
+- **[CS Jupyter](https://github.com/cyber-shuttle/cs-jupyter)** – Run JupyterLab in Slurm jobs from your browser
+- **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Reach Jupyter, VS Code, and terminals in a Slurm job from your laptop
+- **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments across HPC and cloud. Control plane for Cybershuttle
+- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Automate HPC account management, from approval to Slurm access
+- **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream, replay, and simulate biosignals in real time from Python
 
 ## 🔬 More Open Source
 
-- **[Cybershuttle](https://github.com/cyber-shuttle)** – Run VS Code, Jupyter, and terminals in Slurm jobs from your laptop.
-- **[Slurm REST](https://github.com/yasithdev/slurmrest)** – Run a Slurm cluster with REST in Docker, plus nexusctl, a Go admin CLI.
+- **[Cybershuttle](https://github.com/cyber-shuttle)** – Run VS Code, Jupyter, and terminals in Slurm jobs from your laptop
+- **[Slurm REST](https://github.com/yasithdev/slurmrest)** – Run a Slurm cluster with REST in Docker, plus nexusctl, a Go admin CLI
 
 ## 📄 Selected Publications
 
