@@ -16,8 +16,8 @@ Human sensing researcher (PhD, CS) and systems engineer (BSc, CSE)
 
 - Eye-movement measures of attention and effort
 - EEG markers of autistic traits
-- Reliability tests for AI models on unseen data
-- AI buyer personas grounded in real conversations
+- Model reliability measures for unseen data
+- Buyer personas built from real conversations
 
 **I've built**
 
