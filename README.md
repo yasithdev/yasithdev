@@ -12,14 +12,14 @@ I make AI agents think and act like humans
 
 Human sensing researcher (PhD, CS) and systems engineer (BSc, CSE)
 
-**As a researcher, I've found**
+**I've researched**
 
 - Eye-movement measures of attention and effort
 - EEG markers of autistic traits
 - Reliability tests for AI models on unseen data
 - AI buyer personas grounded in real conversations
 
-**As an engineer, I've built**
+**I've built**
 
 - Research tools to sync, merge, and analyze biosignals
 - Plugins to access HPC from VS Code and Jupyter
