@@ -31,7 +31,8 @@ In my spare time, I make music
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/13QNJSaGuciwzHPaIMjqOj)
 [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=flat&logo=applemusic&logoColor=white)](https://music.apple.com/artist/1675938591)
 
-<img src="https://ghstats.dev/api/card?username=yasithdev&show_ring=false&hide=streak%2Ccontributions%2Cgrade%2Cactive_day%2Cavg%2Ctrend%2Cweek%2Chours%2Cissues&order=commits%2Cprs%2Crepos%2Cstars%2Cfollowers" alt="GitHub Stats Card" />
+[![GitHub followers](https://img.shields.io/github/followers/yasithdev?style=flat&logo=github&label=Followers)](https://github.com/yasithdev?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/yasithdev?style=flat&logo=github&label=Stars&affiliations=OWNER)](https://github.com/yasithdev?tab=repositories)
 
 ## 🛠️ Open Source
 
