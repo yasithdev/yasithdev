@@ -18,20 +18,19 @@ I make music in my spare time.
 
 <img src="https://ghstats.dev/api/card?username=yasithdev&show_ring=false&hide=streak%2Ccontributions%2Cgrade%2Cactive_day%2Cavg%2Ctrend%2Cweek%2Chours%2Cissues&order=commits%2Cprs%2Crepos%2Cstars%2Cfollowers" alt="GitHub Stats Card" />
 
-## 🚀 Recent Projects
+## 🛠️ Open Source
 
 - **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Launch VS Code sessions on Slurm compute nodes from your local editor.
 - **[CS Jupyter](https://github.com/cyber-shuttle/cs-jupyter)** – Run JupyterLab on Slurm compute nodes from your browser.
 - **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Reach Jupyter, VS Code, and terminals in a Slurm job from your laptop.
 - **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments across HPC and cloud. Control plane for Cybershuttle.
-- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Get HPC accounts by signing in with your university account.
-- **[Persona OS](https://marketrix.ai)** – Chat with AI buyer personas and test what-if questions on products and messaging.
+- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Keep HPC accounts, allocations, and Slurm access in sync.
+- **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream, replay, and simulate biosignals in real time from Python.
 
 ## 🔬 More Open Source
 
 - **[Cybershuttle](https://github.com/cyber-shuttle)** – Connect your data and code to HPC, cloud, and local machines to run experiments anywhere.
 - **[Slurm REST](https://github.com/yasithdev/slurmrest)** – Dockerized Slurm cluster with REST, plus a Go CLI to manage accounts and limits.
-- **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream biosignals from devices and datasets, and process them in real time.
 
 ## 📄 Selected Publications
 
