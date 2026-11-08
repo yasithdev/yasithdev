@@ -8,9 +8,9 @@
 
 I make AI agents think and act like humans
 
-Human sensing researcher (PhD, CS) and systems engineer (BS, CSE).
+Human sensing researcher (PhD, CS) and systems engineer (BSc, CSE).
 As a researcher, I've estimated attention and effort from eye movements, found EEG markers of autistic traits, compressed signals into ODEs, detected distribution shift, and turned real conversations into AI buyer personas.
-As an engineer, I've built biosignal libraries and research computing platforms.
+As an engineer, I've streamed biosignals in real time, brought HPC to local editors and browsers, and let researchers sign in to HPC with their university accounts.
 I make music in my spare time.
 
 <img src="https://ghstats.dev/api/card?username=yasithdev&show_ring=false&hide=streak%2Ccontributions%2Cgrade%2Cactive_day%2Cavg%2Ctrend%2Cweek%2Chours%2Cissues&order=commits%2Cprs%2Crepos%2Cstars%2Cfollowers" alt="GitHub Stats Card" />
@@ -18,11 +18,11 @@ I make music in my spare time.
 ## 🚀 Recent Projects
 
 - **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Launch VS Code sessions on Slurm compute nodes from your local editor.
-- **[CS Jupyter](https://github.com/cyber-shuttle/cs-jupyter)** – Run JupyterLab on a Slurm compute node, from your browser.
+- **[CS Jupyter](https://github.com/cyber-shuttle/cs-jupyter)** – Run JupyterLab on Slurm compute nodes from your browser.
 - **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Reach Jupyter, VS Code, and terminals in a Slurm job from your laptop.
 - **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments across HPC and cloud. Control plane for Cybershuttle.
-- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Provision HPC accounts from federated sign-in via CILogon, COmanage, and OAuth2.
-- **[Persona OS](https://marketrix.ai)** – Chat with AI Buyer Personas built from real conversations, and test what-if questions.
+- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Get HPC accounts by signing in with your university account.
+- **[Persona OS](https://marketrix.ai)** – Chat with AI buyer personas and test what-if questions on products and messaging.
 
 ## 🔬 More Open Source
 
@@ -32,7 +32,7 @@ I make music in my spare time.
 
 ## 📄 Selected Publications
 
-- [Measuring Mental Effort in Real Time Using Pupillometry](https://doi.org/10.3390/jemr18060070) – *J. Eye Movement Research*, 2025
+- [Measuring Mental Effort in Real Time Using Pupillometry](https://doi.org/10.3390/jemr18060070) – *Journal of Eye Movement Research*, 2025
 - [A Real-Time Approach to Capture Ambient and Focal Attention in Visual Search](https://doi.org/10.1145/3715669.3723111) – *ETRA*, 2025
 - [Thinking in Groups: Permutation Tests Reveal Near-Out-of-Distribution](https://arxiv.org/abs/2403.14058) – *arXiv*, 2024
 - [Enhancing Research Productivity: Seamless Integration of Personal Devices and HPC Resources with the Cybershuttle Notebook Gateway](https://doi.org/10.1145/3626203.3670623) – *PEARC*, 2024
@@ -42,9 +42,7 @@ More on [Google Scholar](https://scholar.google.com/citations?user=tY4R8rYAAAAJ)
 
 ## 🧰 Skills & Stack
 
-- **AI & Agents:** LLM Agents · MCP · LiteLLM · RAG · Behavior Simulation
-- **Human Sensing & ML:** Eye Tracking · Pupillometry · EEG · Deep Learning · Out-of-Distribution Detection
-- **Research Computing:** HPC / Slurm · Science Gateways · Jupyter · VS Code Extensions · CILogon · Keycloak
+Python · Machine Learning · Deep Learning · Eye Tracking · Signal Processing · Docker · Java · TypeScript · Go · HPC · Slurm. Full list on [yasith.dev](https://yasith.dev).
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -52,16 +50,9 @@ More on [Google Scholar](https://scholar.google.com/citations?user=tY4R8rYAAAAJ)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-## 🎹 Music
-
-Amateur music producer, now making original music.
-
