@@ -1,5 +1,7 @@
 # Hi 👋 I'm Yasith Jayawardana
 
+I make AI agents think and act like humans
+
 [![Website](https://img.shields.io/badge/Website-24292f?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D)](https://yasith.dev)
 [![CV](https://img.shields.io/badge/CV-555555?style=flat&logo=readthedocs&logoColor=white)](https://yasith.dev/assets/cv.pdf)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=tY4R8rYAAAAJ)
@@ -8,7 +10,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/13QNJSaGuciwzHPaIMjqOj)
 [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=flat&logo=applemusic&logoColor=white)](https://music.apple.com/artist/1675938591)
 
-I make AI agents think and act like humans
+## 👤 About Me
 
 Human sensing researcher (PhD, CS) and systems engineer (BSc, CSE)
 
