@@ -9,7 +9,7 @@
 I make AI agents think and act like humans
 
 Human sensing researcher (PhD, CS) and systems engineer (BSc, CSE).
-As a researcher, I've estimated attention and effort from eye movements, found EEG markers of autistic traits, compressed signals into ODEs, detected distribution shift, and turned real conversations into AI buyer personas.
+As a researcher, I've estimated attention and effort from eye movements, found EEG markers of autistic traits, and compressed signals into ODEs. I've also detected distribution shift and turned real conversations into AI buyer personas.
 As an engineer, I've streamed biosignals in real time, brought HPC to local editors and browsers, and let researchers sign in to HPC with their university accounts.
 I make music in my spare time.
 
