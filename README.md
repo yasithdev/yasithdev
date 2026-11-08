@@ -1,6 +1,8 @@
 # Hi 👋 I'm Yasith Jayawardana
 
 [![Website](https://img.shields.io/badge/Website-24292f?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPHBhdGggZD0iTTIgMTJoMjAiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D)](https://yasith.dev)
+[![CV](https://img.shields.io/badge/CV-555555?style=flat&logo=readthedocs&logoColor=white)](https://yasith.dev/assets/cv.pdf)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=tY4R8rYAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://linkedin.com/in/yasithdev)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@yasithdev)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/13QNJSaGuciwzHPaIMjqOj)
@@ -8,29 +10,39 @@
 
 I make AI agents think and act like humans
 
-Human sensing researcher (PhD, CS) and systems engineer (BSc, CSE).
+Human sensing researcher (PhD, CS) and systems engineer (BSc, CSE)
 
-As a researcher, I've estimated attention and effort from eye movements, found EEG markers of autistic traits, and compressed signals into ODEs. I've also detected distribution shift and turned real conversations into AI buyer personas.
+**As a researcher, I've found**
 
-As an engineer, I've built tools that stream biosignals in real time, bring HPC to local editors and browsers, and automate HPC account management.
+- Eye-movement measures of attention and effort
+- EEG markers of autistic traits
+- Reliability tests for AI models on unseen data
+- AI buyer personas grounded in real conversations
 
-I make music in my spare time.
+**As an engineer, I've built**
+
+- Research tools to sync, merge, and analyze biosignals
+- Plugins to access HPC from VS Code and Jupyter
+- Platforms to automate HPC account management
+- Services to snapshot web pages cited in papers
+
+In my spare time, I make music
 
 <img src="https://ghstats.dev/api/card?username=yasithdev&show_ring=false&hide=streak%2Ccontributions%2Cgrade%2Cactive_day%2Cavg%2Ctrend%2Cweek%2Chours%2Cissues&order=commits%2Cprs%2Crepos%2Cstars%2Cfollowers" alt="GitHub Stats Card" />
 
 ## 🛠️ Open Source
 
-- **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Launch VS Code in Slurm jobs from your local editor
-- **[CS Jupyter](https://github.com/cyber-shuttle/cs-jupyter)** – Run JupyterLab in Slurm jobs from your browser
-- **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Control plane for Slurm jobs: reach Jupyter, VS Code, and terminals from your laptop
-- **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments across HPC and cloud. Control plane for Cybershuttle
-- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Automate HPC account management, from approval to Slurm access
-- **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream, replay, and simulate biosignals in real time from Python
+- **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Run VS Code in Slurm jobs from your editor
+- **[CS Jupyter](https://github.com/cyber-shuttle/cs-jupyter)** – Run Jupyter in Slurm jobs from your browser
+- **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Control plane for Slurm jobs: open Jupyter, VS Code, or a terminal
+- **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments on HPC and cloud. Control plane for Cybershuttle
+- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Automate HPC accounts, from approval to Slurm access
+- **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream, replay, and simulate biosignals in real time
 
 ## 🔬 More Open Source
 
 - **[Cybershuttle](https://github.com/cyber-shuttle)** – Run VS Code, Jupyter, and terminals in Slurm jobs from your laptop
-- **[Slurm REST](https://github.com/yasithdev/slurmrest)** – Run a Slurm cluster with REST in Docker, plus nexusctl, a Go admin CLI
+- **[Slurm REST](https://github.com/yasithdev/slurmrest)** – Run a Slurm cluster in Docker, with a REST API and a Go admin CLI
 
 ## 📄 Selected Publications
 
