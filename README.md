@@ -8,9 +8,8 @@
 
 I make AI agents think and act like humans
 
-Human sensing researcher (PhD, CS) and systems engineer (BS, CSE), now a Research Scientist at Georgia Tech.
-As co-founder of Marketrix AI, I turn what people say and do into AI buyer personas.
-As a researcher, I've developed algorithms to estimate attention and mental effort from eye movements, identify EEG markers of autistic traits, compress signals into ODEs, and detect distribution shift.
+Human sensing researcher (PhD, CS) and systems engineer (BS, CSE).
+As a researcher, I've estimated attention and effort from eye movements, found EEG markers of autistic traits, compressed signals into ODEs, detected distribution shift, and built AI buyer personas from what people say and do.
 As an engineer, I've built biosignal libraries and research computing platforms.
 I make music in my spare time.
 
