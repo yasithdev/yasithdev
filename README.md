@@ -8,10 +8,11 @@
 
 I make AI agents think and act like humans
 
-Research Scientist at Georgia Tech, building Cybershuttle and contributing to Apache Airavata and Custos.
-Co-founder of Marketrix AI, where Persona OS turns what people say and do into AI buyer personas.
-PhD in Computer Science, with research on attention and mental effort from eye movements, EEG markers of autistic traits, and distribution shift. At Harvard, I worked on compressing signals into ODEs.
-I also make music.
+Human sensing researcher (PhD, CS) and systems engineer (BS, CSE), now a Research Scientist at Georgia Tech.
+As co-founder of Marketrix AI, I turn what people say and do into AI buyer personas.
+As a researcher, I've developed algorithms to estimate attention and mental effort from eye movements, identify EEG markers of autistic traits, compress signals into ODEs, and detect distribution shift.
+As an engineer, I've built biosignal libraries and research computing platforms.
+I make music in my spare time.
 
 <img src="https://ghstats.dev/api/card?username=yasithdev&show_ring=false&hide=streak%2Ccontributions%2Cgrade%2Cactive_day%2Cavg%2Ctrend%2Cweek%2Chours%2Cissues&order=commits%2Cprs%2Crepos%2Cstars%2Cfollowers" alt="GitHub Stats Card" />
 
