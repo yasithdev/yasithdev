@@ -31,9 +31,6 @@ In my spare time, I make music
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/artist/13QNJSaGuciwzHPaIMjqOj)
 [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=flat&logo=applemusic&logoColor=white)](https://music.apple.com/artist/1675938591)
 
-[![GitHub followers](https://img.shields.io/github/followers/yasithdev?style=flat&logo=github&label=Followers)](https://github.com/yasithdev?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/yasithdev?style=flat&logo=github&label=Stars&affiliations=OWNER)](https://github.com/yasithdev?tab=repositories)
-
 ## 🛠️ Open Source
 
 - **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Run VS Code in Slurm jobs from your editor
@@ -62,8 +59,6 @@ In my spare time, I make music
 Full list on [yasith.dev](https://yasith.dev/publications.html).
 
 ## 🧰 Skills & Stack
-
-Python · Machine Learning · Deep Learning · Eye Tracking · Signal Processing · Docker · Java · TypeScript · Go · HPC · Slurm. Full list on [yasith.dev](https://yasith.dev).
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
