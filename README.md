@@ -2,7 +2,10 @@
 
 I make AI agents think and act like humans
 
-[Website](https://yasith.dev) · [CV](https://yasith.dev/assets/cv.pdf) · [Google Scholar](https://scholar.google.com/citations?user=tY4R8rYAAAAJ) · [LinkedIn](https://linkedin.com/in/yasithdev)
+[![Website](https://img.shields.io/badge/Website-555555?style=flat)](https://yasith.dev)
+[![CV](https://img.shields.io/badge/CV-555555?style=flat)](https://yasith.dev/assets/cv.pdf)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-555555?style=flat)](https://scholar.google.com/citations?user=tY4R8rYAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=flat)](https://linkedin.com/in/yasithdev)
 
 ## About Me
 
@@ -22,7 +25,11 @@ Human sensing researcher (PhD, CS) and systems engineer (BSc, CSE)
 - Platforms to automate HPC account management
 - Services to snapshot web pages cited in papers
 
-In my spare time, I make music: [YouTube](https://youtube.com/@yasithdev) · [Spotify](https://open.spotify.com/artist/13QNJSaGuciwzHPaIMjqOj) · [Apple Music](https://music.apple.com/artist/1675938591)
+In my spare time, I make music
+
+[![YouTube](https://img.shields.io/badge/YouTube-555555?style=flat)](https://youtube.com/@yasithdev)
+[![Spotify](https://img.shields.io/badge/Spotify-555555?style=flat)](https://open.spotify.com/artist/13QNJSaGuciwzHPaIMjqOj)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-555555?style=flat)](https://music.apple.com/artist/1675938591)
 
 ## Open Source
 
@@ -49,4 +56,21 @@ Full list on [yasith.dev](https://yasith.dev/publications.html).
 
 ## Skills & Stack
 
-TypeScript · Python · Java · Go · React · Next.js · PyTorch · PostgreSQL · Kubernetes · Terraform · Docker · Azure · Machine Learning · Deep Learning · Eye Tracking · Signal Processing · HPC · Slurm
+![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat)
+![Python](https://img.shields.io/badge/Python-555555?style=flat)
+![Java](https://img.shields.io/badge/Java-555555?style=flat)
+![Go](https://img.shields.io/badge/Go-555555?style=flat)
+![React](https://img.shields.io/badge/React-555555?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-555555?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-555555?style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-555555?style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-555555?style=flat)
+![Terraform](https://img.shields.io/badge/Terraform-555555?style=flat)
+![Docker](https://img.shields.io/badge/Docker-555555?style=flat)
+![Azure](https://img.shields.io/badge/Azure-555555?style=flat)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-555555?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-555555?style=flat)
+![Eye Tracking](https://img.shields.io/badge/Eye_Tracking-555555?style=flat)
+![Signal Processing](https://img.shields.io/badge/Signal_Processing-555555?style=flat)
+![HPC](https://img.shields.io/badge/HPC-555555?style=flat)
+![Slurm](https://img.shields.io/badge/Slurm-555555?style=flat)
