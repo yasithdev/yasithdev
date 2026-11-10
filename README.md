@@ -54,7 +54,7 @@ In my spare time, I make music
 
 Full list on [yasith.dev](https://yasith.dev/publications.html).
 
-## Skills & Stack
+## What I Work With
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat)
 ![Python](https://img.shields.io/badge/Python-555555?style=flat)
