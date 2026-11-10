@@ -33,13 +33,7 @@ In my spare time, I make music
 
 ## Open Source
 
-- **[Cybershuttle](https://github.com/cyber-shuttle)** – Run VS Code, Jupyter, and terminals in Slurm jobs from your laptop
-- **[CS Bridge](https://github.com/cyber-shuttle/cs-bridge)** – Run VS Code in Slurm jobs from your editor
-- **[CS Jupyter](https://github.com/cyber-shuttle/cs-jupyter)** – Run Jupyter in Slurm jobs from your browser
-- **[Linkspan](https://github.com/cyber-shuttle/linkspan)** – Control plane for Slurm jobs: open Jupyter, VS Code, or a terminal
-- **[Apache Airavata](https://github.com/apache/airavata)** – Run experiments on HPC and cloud. Control plane for Cybershuttle
-- **[Airavata Custos](https://github.com/apache/airavata-custos)** – Automate HPC accounts, from approval to Slurm access
-- **[StreamingHub](https://github.com/nirdslab/streaminghub)** – Stream, replay, and simulate biosignals in real time
+I build [Cybershuttle](https://github.com/cyber-shuttle) to run VS Code, Jupyter, and terminals in Slurm jobs from your laptop. More projects are in my pinned repos.
 
 ## Selected Publications
 
