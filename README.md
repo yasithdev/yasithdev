@@ -16,6 +16,7 @@ Human sensing researcher (PhD, CS) and systems engineer (BSc, CSE)
 - Eye-movement measures of attention and effort
 - EEG markers of autistic traits
 - Model reliability measures for unseen data
+- Buyer personas built from real conversations
 
 **What I've built**
 
@@ -23,7 +24,6 @@ Human sensing researcher (PhD, CS) and systems engineer (BSc, CSE)
 - Plugins to access HPC from VS Code and Jupyter
 - Platforms to automate HPC account management
 - Services to snapshot web pages cited in papers
-- Buyer personas built from real conversations
 
 In my spare time, I make music
 
